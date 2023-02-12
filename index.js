@@ -127,10 +127,41 @@
 
 
 // Question no 11
-let amount=29900;
-if(){
+// 
 
-}
+
+// Question no 12
+
+// let marks=50;
+// if(marks>=90&&marks<=100){
+//     console.log("You got A ");
+// }else if(marks>=80&&marks<90){
+//     console.log("You got B ");
+// }else if(marks>=70&&marks<80){
+//     console.log("You got C");
+// }else if(marks>=60&&marks<=70){
+//     console.log("You got D");
+// }else if(marks>=40&&marks<=60){
+//     console.log("You got E");
+// }else if(marks<40&&marks>=0){
+//     console.log("You got F");
+// }
+
+
+
+// Question no 13
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
